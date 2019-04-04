@@ -22,6 +22,7 @@ The main data analysis is completed using the `riboseq_pipeline.py` script. Befo
                            [--errorRate ERRORRATE]
                            fastq
 `
+
 Command-line parameters:
 
 `--trimRPF` - Run the trimming step (cutadapt) and the data is Ribo-seq.
