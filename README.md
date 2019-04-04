@@ -6,11 +6,11 @@ Set of scripts for routine data analysis of plant transcriptomic Illumina sequen
 
 These packages are required by the pipeline and need to be in the path of executing user.
 
-Python 3
-Cutadapt (https://cutadapt.readthedocs.io/en/stable/installation.html)
-STAR (https://github.com/alexdobin/STAR)
-Samtools (http://www.htslib.org/)
-FeatureCounts (http://subread.sourceforge.net/)
+- Python 3
+- Cutadapt (https://cutadapt.readthedocs.io/en/stable/installation.html)
+- STAR (https://github.com/alexdobin/STAR)
+- Samtools (http://www.htslib.org/)
+- FeatureCounts (http://subread.sourceforge.net/)
 
 # Pipeline
 
