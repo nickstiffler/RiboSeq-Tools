@@ -53,6 +53,8 @@ Command-line parameters:
 
 The script `submit_riboseq_analysis.py` is a graphical user interface designed to run using X11 forwarding over SSH so users and configure and submit the pipeline analysis on a compute cluster. It will produce a script to run the on the `SLURM` queueing system on the Talapas cluster at the University of Oregon.
 
+![GUI Screenshot](/pipeline.png)
+
 # QC
 
 An additional script is provided to run the quality control steps called `QC_STAR_Ribo-seq_v5.pl`. 
