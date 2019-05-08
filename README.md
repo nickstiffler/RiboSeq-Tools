@@ -1,6 +1,8 @@
 # RiboSeq-Tools
 
-Set of scripts for routine data analysis of plant transcriptomic Illumina sequences. Although originally written to handle Ribo-seq data, can be used for RNA-seq and Rip-seq. 
+Set of scripts for routine data analysis of plant transcriptomic Illumina sequences. Although originally written to handle Ribo-seq data, can be used for RNA-seq and Rip-seq.
+
+*Note: Genome indexes and annotations are required for this project to be fully functional, but are not included in this repository. Please contact the developer if you have any questions about how to retrieve and setup these files.*
 
 # Dependencies
 
